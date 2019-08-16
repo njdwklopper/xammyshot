@@ -1,0 +1,17 @@
+C:\_dev\_projects\mobile\xamarin\Screeny\Screeny\Screeny\bin\Debug\netstandard2.0\Screeny.deps.json
+C:\_dev\_projects\mobile\xamarin\Screeny\Screeny\Screeny\bin\Debug\netstandard2.0\Screeny.dll
+C:\_dev\_projects\mobile\xamarin\Screeny\Screeny\Screeny\bin\Debug\netstandard2.0\Screeny.pdb
+C:\_dev\_projects\mobile\xamarin\Screeny\Screeny\Screeny\obj\Debug\netstandard2.0\Screeny.csprojAssemblyReference.cache
+C:\_dev\_projects\mobile\xamarin\Screeny\Screeny\Screeny\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\_dev\_projects\mobile\xamarin\Screeny\Screeny\Screeny\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\_dev\_projects\mobile\xamarin\Screeny\Screeny\Screeny\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\_dev\_projects\mobile\xamarin\Screeny\Screeny\Screeny\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\_dev\_projects\mobile\xamarin\Screeny\Screeny\Screeny\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\_dev\_projects\mobile\xamarin\Screeny\Screeny\Screeny\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\_dev\_projects\mobile\xamarin\Screeny\Screeny\Screeny\obj\Debug\netstandard2.0\Screeny.csproj.CoreCompileInputs.cache
+C:\_dev\_projects\mobile\xamarin\Screeny\Screeny\Screeny\obj\Debug\netstandard2.0\Screeny.AssemblyInfoInputs.cache
+C:\_dev\_projects\mobile\xamarin\Screeny\Screeny\Screeny\obj\Debug\netstandard2.0\Screeny.AssemblyInfo.cs
+C:\_dev\_projects\mobile\xamarin\Screeny\Screeny\Screeny\obj\Debug\netstandard2.0\XamlC.stamp
+C:\_dev\_projects\mobile\xamarin\Screeny\Screeny\Screeny\obj\Debug\netstandard2.0\Screeny.dll
+C:\_dev\_projects\mobile\xamarin\Screeny\Screeny\Screeny\obj\Debug\netstandard2.0\Screeny.pdb
+C:\_dev\_projects\mobile\xamarin\Screeny\Screeny\Screeny\obj\Debug\netstandard2.0\Views\ViewScreenshot.xaml.g.cs
